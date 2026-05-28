@@ -2,6 +2,8 @@
 
 Browser-basiertes Space Invaders im Arcade-Stil — originalgetreu mit Pixelgrafiken, klassischem HUD und CRT-Effekt.
 
+![Space Invaders Screenshot](screenshot.png)
+
 ## Spielen
 
 ```
